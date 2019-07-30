@@ -1,6 +1,6 @@
 export default {
   title: `Why Lean Human?`,
-  tags: ['biohacking', 'performance'],
+  tags: ['performance', 'longevity'],
   spoiler: "Learn more about why I created Lean Human.",
   getContent: () => import('./document.mdx'),
 }
