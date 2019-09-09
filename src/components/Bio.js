@@ -5,7 +5,7 @@ import { getGravatarURL } from '../utils/getGravatarURL'
 function Bio(props) {
   let photoURL = getGravatarURL({
     email: "bkjimmie@gmail.com",
-    size: 56,
+    size: 120,
   })
 
   return (
