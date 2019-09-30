@@ -10,9 +10,6 @@ function BlogIndexPage({ blogRoot, pageCount, pageNumber, postRoutes }) {
   return (
     <div>
       <header>
-        <h1 className={styles.title}>
-          <Link href={blogRoot}>{siteMetadata.title}</Link>
-        </h1>
         <Bio />
       </header>
       <ul className={styles.articlesList}>

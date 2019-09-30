@@ -15,8 +15,7 @@ function Bio(props) {
     `}>
       <img src={photoURL} alt="Me" />
       <p>
-        The Lean Human methodology, created by{' '}
-        <a href="https://instagram.com/leanhuman/">Jimmy Lindsey</a>, is built on the premise that every human is an experiment of one. The Lean Human provides a systems-engineering approach to unlocking your body and mind for optimal performance and longevity.
+        <a href="https://instagram.com/leanhuman/">Jimmy Lindsey</a> is an experiment of one. This blog provides a systems-engineering approach to unlocking your body and mind for optimal performance and longevity.
       </p>
     </div>
   )
