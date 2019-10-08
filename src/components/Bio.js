@@ -15,7 +15,7 @@ function Bio(props) {
     `}>
       <img src={photoURL} alt="Me" />
       <p>
-        <a href="https://instagram.com/leanhuman/">Jimmy Lindsey</a> is a husband, father, and biohacker. As an n of 1, he has been experimenting with fitness and nutrition since 2002. Jimmy studied Applied Physiology at Columbia University and has worked in strength and conditioning, physical therapy, and biohacking. His goal is to help every human realize their unlimited potential. This blog provides a systems-engineering approach to unlocking your body and mind for optimal performance and longevity.
+        <a href="https://instagram.com/leanhuman/">Jimmy Lindsey</a> started low carbohydrate, high fat diet in 2012 while studying Applied Physiology at Columbia University. Having read a sliver of text on this "diet" in one of his textbooks, Jimmy began to question all of his teachings up to that point, which emphasized carbohydrate as the primary source of fuel for the brain and body. He ran with the assumption that the brain and body can function more optimally when fueled by fat instead of carbohydrate, and hasn't looked back.
       </p>
     </div>
   )
