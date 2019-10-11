@@ -1,6 +1,6 @@
 export default {
   title: `Milestone One`,
-  tags: ['biomarkers', 'biohacking'],
-  spoiler: "In this post I'm going to share my biomarkers as well as my approach to biohacking.",
+  tags: ['biohacking', 'performance', 'recovery', 'cognitive'],
+  spoiler: "The biohacks explained",
   getContent: () => import('./document.mdx'),
 }
